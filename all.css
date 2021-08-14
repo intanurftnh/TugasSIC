@@ -1,0 +1,28 @@
+
+header {
+    background-color:darkblue;
+    padding: 14px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+body {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+span.hobi {
+    display: inline-block;
+    align-items: center;
+    border-style:inset;
+    padding-block: 50px;
+}
+span.hoby {
+    display: inline-block;
+    align-items: center;
+    border-style:inset;
+    padding-block: 50px;
+}
+span.sekolah {
+    display: inline;
+}
